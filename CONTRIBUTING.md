@@ -10,7 +10,7 @@ pnpm install
 pnpm dev
 ```
 
-Requirements: Node 20+ and pnpm 9+. No API keys and no backend — the dashboard runs on the
+Requirements: Node 26+ and pnpm 12+. No API keys and no backend — the dashboard runs on the
 deterministic simulation engine.
 
 ## Before you push

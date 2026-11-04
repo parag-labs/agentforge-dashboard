@@ -136,7 +136,7 @@ Produced by `pnpm eval` from real runs — never hand-written. The correctness m
 
 ## Local setup
 
-Requirements: Node 20+, pnpm 9+. No API keys, no database.
+Requirements: Node 26+, pnpm 12+. No API keys, no database.
 
 ```bash
 pnpm install
