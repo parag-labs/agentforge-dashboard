@@ -4,6 +4,15 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+- Runtime and toolchain: Node 20 -> 26 (Active LTS), pnpm 9 -> 12, GitHub Actions on current
+  majors.
+- Frameworks and libraries: Next.js 15 -> 16, React 19.3, TypeScript 5.9 -> 6.0, ESLint 9 -> 10,
+  typescript-eslint 8.72, Vitest 3 -> 5 (on Vite 8), Zod 3 -> 4, React Flow 12.12.
+- Transitive dependencies refreshed so the high-severity audit gate passes again.
+
 ## [0.1.0] - 2026-09-07
 
 First public release.
